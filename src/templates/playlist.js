@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import ListItem from '../components/ListItem'
 
 export const PlaylistTemplate = ({
   content,
