@@ -1,6 +1,5 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: product-page
 title: work
 image: /img/jumbotron.jpg
 heading: Supporting Rainey
@@ -12,16 +11,17 @@ description: >-
 intro:
   blurbs:
     - image: /img/wcc.png
-      text: >
+      text: |
         We sell Women Can Code t-shirts.
     - image: /img/wwt.png
       text: >
-        We offer a small, but carefully curated selection of Women With Tech merchandise. 
+        We offer a small, but carefully curated selection of Women With Tech
+        merchandise. 
     - image: /img/tutorials.png
       text: >
-        You can schedule a custom 1-on-1 consultation with Rainey 
-        to learn anything you want to know about Data Science, Project Management, Community Building.
-        Email us or call the helpline for details.
+        You can schedule a custom 1-on-1 consultation with Rainey  to learn
+        anything you want to know about Data Science, Project Management,
+        Community Building. Email us or call the helpline for details.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
@@ -31,62 +31,58 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    RaineyDavid is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
+    RaineyDavid is the ultimate spot for coffee lovers who want to learn about
+    their java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Learning By Doing
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Meticulous and transparent about each step of the journey. We manually
+    review as well as using big data to make sure the conditions are optimal for
+    you, our community and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: >-
+      A pink background logo saying women can code with 'women can' in small
+      black text  and 'Code' in large white all capital letters
+    image: /img/wwc-logo.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: 'A purple logo with comms unity text and black icon handshake '
+    image: /img/commsunity-1-.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: 'The Pay Gap logo '
+    image: /img/tpg.png
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Korlane
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      After speaking with Rainey, I've got a clear goal and look forward to
+      making things work.
+full_image: /img/become-ba.png
 pricing:
-  heading: Monthly subscriptions
+  heading: Pricing
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to change part of your life. Choose one of our our pricing
+    plans to receive make the required one off or ongoing changes.  Contact us
+    about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Mutual exchange
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
+        - You listen
+        - I listen
+      plan: Free
+      price: '0'
     - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Newsletter
+        - Curated Content
+      plan: Monthly
+      price: '10'
+    - description: Want to have a tailored session? Try our custom plan
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Analysis
+        - Evidence Based
+        - Recommendation
       plan: Custom
       price: '??'
 ---
+
