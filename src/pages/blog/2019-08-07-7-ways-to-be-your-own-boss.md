@@ -12,6 +12,8 @@ tags:
   - boss
   - money
 ---
+![Poster with Be Your Own boss.  Woman staring into space](/img/beyourownboss.png "Be Your Own Boss")
+
 ## Start your own business
 
 Become a Consultant, a Speaker, a Maker
